@@ -1,0 +1,2 @@
+# minecraft_fault_recovery
+マインクラフト用リカバリースクリプト
